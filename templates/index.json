@@ -355,6 +355,7 @@
         },
         "bf_size_charts_homepage_block_khnC4i": {
           "type": "shopify://apps/bf-size-charts/blocks/homepage-block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "name": "Guide des tailles",
           "settings": {
             "product": "{{section.settings.product}}"
           }
@@ -400,7 +401,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#0baf09",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
