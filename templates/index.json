@@ -111,6 +111,96 @@
         "logo_item_border": ""
       }
     },
+    "multi_column_zAf37q": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NaRLjR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1745005074-4.avif",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yCt7Wd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dfNx9X": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_566422077242868817-cf9e4ca2-3481-478f-9608-dbed044a2c62.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dQgNJx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7128_1.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dktJiR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NaRLjR",
+        "item_yCt7Wd",
+        "item_dfNx9X",
+        "item_dQgNJx",
+        "item_dktJiR"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "settings": {
@@ -130,6 +220,7 @@
     "image_with_text_overlay_7UeBqC",
     "rich_text_Dk9hix",
     "logo_list_qgbEdG",
+    "multi_column_zAf37q",
     "slideshow"
   ]
 }
