@@ -128,6 +128,63 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_ChLqPr": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_JbJW8N": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_i6hJNq": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_YidyTN": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JbJW8N",
+        "heading_i6hJNq",
+        "richtext_YidyTN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_wGpWmY": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/telechargement_6.jpg",
+        "mobile_image": "shopify://shop_images/telechargement_6.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "custom_liquid_mhUizr": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -497,6 +554,8 @@
     "rich_text_Dk9hix",
     "logo_list_qgbEdG",
     "image_with_text_overlay_YdTbHz",
+    "rich_text_ChLqPr",
+    "image_with_text_overlay_wGpWmY",
     "custom_liquid_mhUizr",
     "multi_column_zAf37q",
     "rich_text_DMbXnp",
