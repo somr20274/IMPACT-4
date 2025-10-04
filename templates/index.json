@@ -111,6 +111,19 @@
         "logo_item_border": ""
       }
     },
+    "custom_liquid_mhUizr": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_zAf37q": {
       "type": "multi-column",
       "blocks": {
@@ -187,7 +200,7 @@
         "item_dQgNJx",
         "item_dktJiR"
       ],
-      "name": "Multi-column",
+      "name": "Avis temoignage ",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -196,9 +209,50 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "rich_text_DMbXnp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zNWgrq": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_zNWgrq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_3aUdgn": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "md",
+        "video": "shopify://files/videos/9055-leak-demo-2.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "slideshow": {
@@ -220,7 +274,10 @@
     "image_with_text_overlay_7UeBqC",
     "rich_text_Dk9hix",
     "logo_list_qgbEdG",
+    "custom_liquid_mhUizr",
     "multi_column_zAf37q",
+    "rich_text_DMbXnp",
+    "video_3aUdgn",
     "slideshow"
   ]
 }
