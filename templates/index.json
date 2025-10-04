@@ -663,51 +663,91 @@
         "item_FWTMPV": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "À qui s’adressent ces sous-vêtements ?",
+            "content": "<p>Ils sont conçus pour toutes les femmes souffrant d'incontinence légère ou de petites fuites urinaires, notamment après une grossesse, avec l’âge, ou en période de stress. Ils conviennent aussi à celles qui souhaitent rester fraîches et à l’aise toute la journée.</p>"
           }
         },
         "item_LTbgaR": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Est-ce qu’ils neutralisent vraiment les odeurs ?",
+            "content": "<p>Oui. Grâce à une technologie de fibres absorbantes enrichies en charbon actif, nos culottes neutralisent efficacement les odeurs liées à l’urine. Vous restez fraîche et en confiance, même en fin de journée</p>"
           }
         },
         "item_8gAg33": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce qu’on voit que ce sont des sous-vêtements spéciaux ?",
+            "content": "<p>Pas du tout. Ils ressemblent à des culottes classiques : sobres, élégantes et discrètes. Personne ne saura qu’ils sont absorbants.</p>"
+          }
+        },
+        "item_WkQhAJ": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est leur capacité d’absorption ?",
+            "content": "<p>Chaque culotte peut absorber l’équivalent de 2 à 3 petits incidents urinaires, soit jusqu’à 40 ml. Elle convient parfaitement pour l’incontinence légère et les fuites occasionnelles.</p>"
+          }
+        },
+        "item_K8fXyE": {
+          "type": "item",
+          "settings": {
+            "title": "Sont-ils confortables à porter au quotidien ?",
+            "content": "<p>Absolument. Le tissu est doux, respirant et extensible. Ils ne provoquent pas d’irritation ni de sensation d’humidité. Vous oublierez que vous les portez.</p>"
+          }
+        },
+        "item_UFiGhb": {
+          "type": "item",
+          "settings": {
+            "title": "Comment les entretenir ?",
+            "content": "<p>Lavage en machine à 30°C, avec le reste du linge. Pas de sèche-linge. Laissez-les sécher à l’air libre pour préserver leur efficacité.</p>"
+          }
+        },
+        "item_D8xAmB": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>La livraison est généralement assurée sous 5 à 7 jours ouvrés. Vous recevrez un lien de suivi dès l’expédition de votre colis.</p>"
+          }
+        },
+        "item_448BUb": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je les retourner si la taille ne va pas ?",
+            "content": "<p>Oui. Vous disposez de 14 jours pour demander un échange ou un retour, tant que les produits sont non portés et dans leur emballage d’origine.</p>"
           }
         }
       },
       "block_order": [
         "item_FWTMPV",
         "item_LTbgaR",
-        "item_8gAg33"
+        "item_8gAg33",
+        "item_WkQhAJ",
+        "item_K8fXyE",
+        "item_UFiGhb",
+        "item_D8xAmB",
+        "item_448BUb"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre support client est disponible du lundi au vendredi : de 8h à 20h30.",
+        "answer_time": "Temps de réponse moyen : 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "",
+        "button_background": "#ffffff",
         "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "accordion_background": "#d19fa6",
+        "accordion_text_color": "#ffffff"
       }
     },
     "slideshow": {
