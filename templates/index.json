@@ -26,6 +26,91 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_Dk9hix": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HAUDad": {
+          "type": "heading",
+          "settings": {
+            "text": "Ils en parlent",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HAUDad"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "logo_list_qgbEdG": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_K7mgLT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/telecharger_6.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_H7WwUj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/M6.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_NM7Rd8": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/telecharger_4.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_tGkend": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/telecharger_3.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_K7mgLT",
+        "logo_H7WwUj",
+        "logo_NM7Rd8",
+        "logo_tGkend"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "settings": {
@@ -43,6 +128,8 @@
   },
   "order": [
     "image_with_text_overlay_7UeBqC",
+    "rich_text_Dk9hix",
+    "logo_list_qgbEdG",
     "slideshow"
   ]
 }
