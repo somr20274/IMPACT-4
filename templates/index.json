@@ -457,17 +457,11 @@
     "rich_text_xEJU8R": {
       "type": "rich-text",
       "blocks": {
-        "subheading_CfkzkT": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_ziRyin": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Dotée de la technologie FluidCore",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -475,12 +469,11 @@
         "richtext_DdXX6c": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>Protection intégrée à 4 couches qui retient rapidement les fuites, pour que vous restiez au sec, en confiance et sans souci toute la journée.</strong></p>"
           }
         }
       },
       "block_order": [
-        "subheading_CfkzkT",
         "heading_ziRyin",
         "richtext_DdXX6c"
       ],
