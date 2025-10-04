@@ -513,8 +513,8 @@
             "image": "shopify://shop_images/schema-composition-produit-02_2_1200x_800x_97fddade-f36e-4479-a7d4-7126e2742ada.webp",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Comment ça fonctionne ?",
+            "content": "<p><em>Une technologie multicouche pensée pour votre confort</em></p><p>Nos culottes sont dotées de <strong>4 couches techniques</strong> : coton doux au contact de la peau, fibre de bambou anti-odeur et antibactérienne, membrane imperméable respirante, et lyca résistant. </p><p><strong>Zéro fuite. Zéro odeur. 100% confiance.</strong></p>"
           }
         }
       },
