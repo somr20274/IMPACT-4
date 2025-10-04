@@ -441,6 +441,53 @@
         "input_text_color": ""
       }
     },
+    "tabs_xRMJW8": {
+      "type": "tabs",
+      "blocks": {
+        "tab_3mfAwq": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 1",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_UgK8iN": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_7tr6BE": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_3mfAwq",
+        "tab_UgK8iN",
+        "tab_7tr6BE"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "first_tab_open": false,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "custom_liquid_d8KGeD": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -535,6 +582,125 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_xqQMxd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XdyRTC": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_XdyRTC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_UYxFYy": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Gemini_Generated_Image_1ni3zk1ni3zk1ni3_1__cleanup_720x720_1cce4d89-e5bc-4951-ab4b-973d1d58a2f1.png",
+        "mobile_image": "shopify://shop_images/Gemini_Generated_Image_1ni3zk1ni3zk1ni3_1__cleanup_720x720_1cce4d89-e5bc-4951-ab4b-973d1d58a2f1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_BzNRNB": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_aNNHLi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_aNNHLi"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq_bqHhp9": {
+      "type": "faq",
+      "blocks": {
+        "item_FWTMPV": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_LTbgaR": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_8gAg33": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_FWTMPV",
+        "item_LTbgaR",
+        "item_8gAg33"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "settings": {
@@ -562,10 +728,15 @@
     "rich_text_DMbXnp",
     "video_3aUdgn",
     "featured_product_Dd9img",
+    "tabs_xRMJW8",
     "custom_liquid_d8KGeD",
     "rich_text_xEJU8R",
     "image_with_text_overlay_6rgPxr",
     "images_with_text_scrolling_zwRcce",
+    "rich_text_xqQMxd",
+    "image_with_text_overlay_UYxFYy",
+    "rich_text_BzNRNB",
+    "faq_bqHhp9",
     "slideshow"
   ]
 }
