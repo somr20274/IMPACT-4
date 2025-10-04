@@ -588,8 +588,8 @@
         "heading_XdyRTC": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "- Dr Elena.M, spécialiste du plancher pelvien",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -631,7 +631,7 @@
         "richtext_aNNHLi": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>\"J'ai vu des milliers de femmes </em><em><strong>souffrir d'incontinence</strong></em><em> et en ressentir  la honte. C'est pourquoi j'ai créer les sous-vêtements VEINAA : </em><em><strong>une véritable protection </strong></em><em>qui vous procure la sensation de porter votre sous-vêtement préféré, et non un dispositif médical\"</em></p>"
           }
         }
       },
