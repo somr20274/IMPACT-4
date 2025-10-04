@@ -353,6 +353,12 @@
             "heading_tag": "h2"
           }
         },
+        "bf_size_charts_homepage_block_khnC4i": {
+          "type": "shopify://apps/bf-size-charts/blocks/homepage-block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "liquid_Gg6Uz6": {
           "type": "liquid",
           "settings": {
@@ -412,6 +418,7 @@
       "block_order": [
         "liquid_HHDdFe",
         "title_J3DjtX",
+        "bf_size_charts_homepage_block_khnC4i",
         "liquid_Gg6Uz6",
         "badges_8Vjr8U",
         "price_xUeUzE",
