@@ -447,24 +447,32 @@
         "tab_3mfAwq": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Description",
+            "content": "<p>Découvrez la culotte VEINAA : <strong>la solution élégante, discrète et confortable contre les fuites urinaires légères à modérées</strong>. Grâce à sa technologie innovante, elle neutralise les odeurs instantanément tout en vous gardant parfaitement au sec. Invisible sous les vêtements, elle épouse vos formes et vous offre une vraie liberté au quotidien. Fini les protections jetables, optez pour une protection qui allie confort, style et sérénité.</p>",
             "page": ""
           }
         },
         "tab_UgK8iN": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Composition & Matières",
+            "content": "<p>Extérieur : 95% coton biologique, 5% élasthanne – doux et respirant</p><p><br/>Doublure absorbante : fibre de bambou + polyester technique<br/><br/>Membrane anti-fuite : TPU imperméable, sans PFOA / PFAS<br/><br/>Hypoallergénique & sans substances nocives<br/><br/>Certifié OEKO-TEX®</p>",
             "page": ""
           }
         },
         "tab_7tr6BE": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Entretien & Lavage",
+            "content": "<p>Pour préserver l’efficacité anti-odeur et la longévité de votre culotte VEINAA :</p><ol><li>Rincer à l’eau froide après usage<br/></li><li>Lavage en machine à 30°C<br/></li><li>Séchage à l’air libre (éviter le sèche-linge)<br/></li><li>Ne pas repasser / ne pas utiliser d’adoucissant</li></ol>",
+            "page": ""
+          }
+        },
+        "tab_BKem4L": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison & Retours",
+            "content": "<p><strong>Livraison standard offerte</strong><br/></p><p>Délai moyen : 4 à 7 jours ouvrés<br/><br/>Suivi complet de votre commande par e-mail<br/><br/>Retours possibles sous 30 jours si non porté et non lavé</p>",
             "page": ""
           }
         }
@@ -472,14 +480,15 @@
       "block_order": [
         "tab_3mfAwq",
         "tab_UgK8iN",
-        "tab_7tr6BE"
+        "tab_7tr6BE",
+        "tab_BKem4L"
       ],
       "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "first_tab_open": false,
         "background": "#ffffff",
         "background_gradient": "",
