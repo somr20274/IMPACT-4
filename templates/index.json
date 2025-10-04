@@ -370,6 +370,94 @@
         "text_color": ""
       }
     },
+    "rich_text_xEJU8R": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_CfkzkT": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_ziRyin": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_DdXX6c": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CfkzkT",
+        "heading_ziRyin",
+        "richtext_DdXX6c"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_6rgPxr": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/MConverter.eu_MSL_1296x729_10eedf7b-455d-4f9a-bccf-72847b55a516.gif",
+        "mobile_image": "shopify://shop_images/MConverter.eu_MSL_1296x729_10eedf7b-455d-4f9a-bccf-72847b55a516.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "images_with_text_scrolling_zwRcce": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_kFAKyr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/schema-composition-produit-02_2_1200x_800x_97fddade-f36e-4479-a7d4-7126e2742ada.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_kFAKyr"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "settings": {
@@ -396,6 +484,9 @@
     "video_3aUdgn",
     "featured_product_Dd9img",
     "custom_liquid_d8KGeD",
+    "rich_text_xEJU8R",
+    "image_with_text_overlay_6rgPxr",
+    "images_with_text_scrolling_zwRcce",
     "slideshow"
   ]
 }
