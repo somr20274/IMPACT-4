@@ -131,58 +131,65 @@
     "rich_text_ChLqPr": {
       "type": "rich-text",
       "blocks": {
-        "subheading_JbJW8N": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_i6hJNq": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Offrez à vos parents le confort et la dignité qu’ils méritent.",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
         },
-        "richtext_YidyTN": {
-          "type": "richtext",
+        "subheading_JbJW8N": {
+          "type": "subheading",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "Les culottes VEINAA protègent des fuites urinaires sans gêne, sans honte, sans compromis."
           }
         }
       },
       "block_order": [
-        "subheading_JbJW8N",
         "heading_i6hJNq",
-        "richtext_YidyTN"
+        "subheading_JbJW8N"
       ],
-      "name": "Rich text",
+      "name": "TEXTE ANGLE M LP",
       "settings": {
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#d19fa6",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     },
-    "image_with_text_overlay_wGpWmY": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "images_with_text_scrolling_98r7XH": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_QBtGDb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/telechargement_6.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p>\"Ma mère n’osait plus sortir à cause de ses fuites. J’ai voulu l’aider et je lui ai offert un lot VEINAA.<br/><br/><strong>Depuis, elle revit : plus de peur, plus de gêne.<br/><br/>Elle sort, rit, et me dit qu’elle se sent enfin elle-même à nouveau</strong>.”</p><p>Léa.F</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_QBtGDb"
+      ],
+      "name": "Images and text scrolling",
       "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/telechargement_6.jpg",
-        "mobile_image": "shopify://shop_images/telechargement_6.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "custom_liquid_mhUizr": {
@@ -555,7 +562,7 @@
     "logo_list_qgbEdG",
     "image_with_text_overlay_YdTbHz",
     "rich_text_ChLqPr",
-    "image_with_text_overlay_wGpWmY",
+    "images_with_text_scrolling_98r7XH",
     "custom_liquid_mhUizr",
     "multi_column_zAf37q",
     "rich_text_DMbXnp",
