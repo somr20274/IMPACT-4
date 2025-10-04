@@ -340,6 +340,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_d8KGeD": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n  .veinaa-results {\n    background-color: #d19fa6; /* fond rose clair inspiré d’Osée */\n    color: #FFFFFF;\n    text-align: center;\n    padding: 50px 20px;\n    border-radius: 8px;\n    font-family: 'Josefin Sans', sans-serif;\n  }\n\n  .veinaa-results h3 {\n    text-transform: uppercase;\n    font-size: 18px;\n    letter-spacing: 1px;\n    margin-bottom: 10px;\n  }\n\n  .veinaa-results h2 {\n    font-size: 28px;\n    font-weight: 700;\n    margin-bottom: 35px;\n  }\n\n  .veinaa-stats {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));\n    gap: 20px;\n    justify-items: center;\n    margin-bottom: 15px;\n  }\n\n  .veinaa-stat {\n    font-size: 16px;\n  }\n\n  .veinaa-stat strong {\n    display: block;\n    font-size: 32px;\n    font-weight: 700;\n    margin-bottom: 5px;\n  }\n\n  .veinaa-note {\n    font-size: 12px;\n    color: #444;\n    font-style: italic;\n    margin-top: 20px;\n  }\n\n  @media (min-width: 768px) {\n    .veinaa-results h2 {\n      font-size: 32px;\n    }\n    .veinaa-stat strong {\n      font-size: 36px;\n    }\n  }\n</style>\n\n<div class=\"veinaa-results\">\n  <h3>Résultats prouvés</h3>\n  <h2>Nos clientes l’adorent 💖</h2>\n  <div class=\"veinaa-stats\">\n    <div class=\"veinaa-stat\">\n      <strong>98%</strong>\n      le recommandent\n    </div>\n    <div class=\"veinaa-stat\">\n      <strong>96%</strong>\n      se sentent plus confiantes\n    </div>\n    <div class=\"veinaa-stat\">\n      <strong>94%</strong>\n      constatent moins de fuites\n    </div>\n    <div class=\"veinaa-stat\">\n      <strong>92%</strong>\n      le trouvent très confortable\n    </div>\n  </div>\n  <p class=\"veinaa-note\">\n    *Résultats issus d’un sondage réalisé en septembre 2025 auprès de 250 utilisatrices de VEINAA.\n  </p>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "settings": {
@@ -364,6 +377,7 @@
     "rich_text_DMbXnp",
     "video_3aUdgn",
     "featured_product_Dd9img",
+    "custom_liquid_d8KGeD",
     "slideshow"
   ]
 }
