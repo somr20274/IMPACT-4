@@ -255,6 +255,91 @@
         "overlay_opacity": 0
       }
     },
+    "featured_product_Dd9img": {
+      "type": "featured-product",
+      "blocks": {
+        "title_J3DjtX": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_8Vjr8U": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_xUeUzE": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_TcLXg4": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_9zQQY9": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_jHAqwD": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "quantity_selector_XrXjJt": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_KQnBFT": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_FzeddU": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_J3DjtX",
+        "badges_8Vjr8U",
+        "price_xUeUzE",
+        "rating_TcLXg4",
+        "separator_9zQQY9",
+        "description_jHAqwD",
+        "quantity_selector_XrXjJt",
+        "buy_buttons_KQnBFT",
+        "pickup_availability_FzeddU"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "lot-de-culottes-contre-incontinence-lots-de-2",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "settings": {
@@ -278,6 +363,7 @@
     "multi_column_zAf37q",
     "rich_text_DMbXnp",
     "video_3aUdgn",
+    "featured_product_Dd9img",
     "slideshow"
   ]
 }
