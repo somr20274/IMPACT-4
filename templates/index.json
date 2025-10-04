@@ -311,6 +311,7 @@
       "block_order": [
         "heading_zNWgrq"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
