@@ -322,9 +322,13 @@
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_FzeddU": {
-          "type": "pickup_availability",
-          "settings": {}
+        "image_AkFmjC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_sous-titre_17.png",
+            "alignment": "start",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -336,7 +340,7 @@
         "description_jHAqwD",
         "quantity_selector_XrXjJt",
         "buy_buttons_KQnBFT",
-        "pickup_availability_FzeddU"
+        "image_AkFmjC"
       ],
       "name": "Featured product",
       "settings": {
@@ -350,7 +354,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
