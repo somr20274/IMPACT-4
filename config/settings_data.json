@@ -44,6 +44,11 @@
         "type": "shopify://apps/bf-size-charts/blocks/embed-block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
         "disabled": false,
         "settings": {}
+      },
+      "7147999719060634790": {
+        "type": "shopify://apps/gsc-countdown-timer/blocks/countdown-bar/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
