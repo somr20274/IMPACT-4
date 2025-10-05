@@ -353,6 +353,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_gcAfjC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.veinaa-review {\n  display: flex;\n  align-items: flex-start;\n  background-color: #fff8f9;\n  border-radius: 10px;\n  padding: 20px;\n  box-shadow: 0 3px 10px rgba(0,0,0,0.05);\n  margin-top: 25px;\n  gap: 15px;\n  font-family: 'Poppins', sans-serif;\n}\n\n.veinaa-review img {\n  width: 70px;\n  height: 70px;\n  border-radius: 50%;\n  object-fit: cover;\n  border: 2px solid #d19fa6;\n}\n\n.veinaa-review-content {\n  flex: 1;\n}\n\n.veinaa-review-content p {\n  margin: 0 0 8px;\n  font-size: 15px;\n  color: #333;\n  line-height: 1.5;\n}\n\n.veinaa-review-name {\n  font-weight: 600;\n  color: #d19fa6;\n  font-size: 14px;\n}\n\n.veinaa-stars {\n  color: #f8c121;\n  margin-top: 3px;\n}\n</style>\n\n<div class=\"veinaa-review\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/customer_veinaa.jpg?v=1\" alt=\"Avis client VEINAA\">\n  <div class=\"veinaa-review-content\">\n    <p>“Je l’ai offert à ma mère et elle en est ravie ! Elle se sent enfin à l’aise au quotidien, sans crainte de fuite. Le tissu est doux, la protection efficace — elle m’a même dit qu’elle oublie qu’elle la porte !”</p>\n    <div class=\"veinaa-stars\">★★★★★</div>\n    <div class=\"veinaa-review-name\">— Laura M., 32 ans</div>\n  </div>\n</div>"
+          }
+        },
         "bf_size_charts_homepage_block_khnC4i": {
           "type": "shopify://apps/bf-size-charts/blocks/homepage-block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
           "name": "Guide des tailles",
@@ -419,6 +425,7 @@
       "block_order": [
         "liquid_HHDdFe",
         "title_J3DjtX",
+        "liquid_gcAfjC",
         "bf_size_charts_homepage_block_khnC4i",
         "liquid_Gg6Uz6",
         "badges_8Vjr8U",
