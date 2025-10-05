@@ -420,6 +420,12 @@
             "alignment": "start",
             "max_width": 500
           }
+        },
+        "gsc_countdown_timer_countdown_9HXmP4": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": ""
+          }
         }
       },
       "block_order": [
@@ -435,7 +441,8 @@
         "description_jHAqwD",
         "quantity_selector_XrXjJt",
         "buy_buttons_KQnBFT",
-        "image_AkFmjC"
+        "image_AkFmjC",
+        "gsc_countdown_timer_countdown_9HXmP4"
       ],
       "name": "Featured product",
       "settings": {
