@@ -35,7 +35,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 5
       }
     },
     "rich_text_Dk9hix": {
