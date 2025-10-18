@@ -18,17 +18,10 @@
             "text": "Enfin libérée de la peur des fuites urinaires",
             "heading_tag": "h3"
           }
-        },
-        "subheading_VWBNJ3": {
-          "type": "subheading",
-          "settings": {
-            "text": "Tellement discrètes et fiables que vous oublierez que vous les portez"
-          }
         }
       },
       "block_order": [
-        "heading_nhqEr8",
-        "subheading_VWBNJ3"
+        "heading_nhqEr8"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -38,7 +31,7 @@
         "image_size": "sm",
         "image": "shopify://shop_images/nick784z_httpss.mj.runQc4KxN2n5vc_httpss.mj.runpb_tFq48EUg_A__7fdeea12-5b90-4781-9854-6d1f10cdcf78_0.png",
         "mobile_image": "shopify://shop_images/nick784z_httpss.mj.runQc4KxN2n5vc_httpss.mj.runpb_tFq48EUg_A__0f1e0173-612d-40a3-890a-3274f893b4df_0.png",
-        "mobile_text_position": "place-self-center text-center",
+        "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
