@@ -573,6 +573,22 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_i7rrD6": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Culottes_pour_incontinence_VEINA_3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "images_with_text_scrolling_zwRcce": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -826,6 +842,7 @@
     "custom_liquid_d8KGeD",
     "rich_text_xEJU8R",
     "image_with_text_overlay_6rgPxr",
+    "image_with_text_overlay_i7rrD6",
     "images_with_text_scrolling_zwRcce",
     "rich_text_xqQMxd",
     "image_with_text_overlay_UYxFYy",
