@@ -76,6 +76,12 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "size_charts_jotly_jotly_size_chart_block_aJr9nh": {
+          "type": "shopify://apps/size-charts-jotly/blocks/jotly-size-chart-block/97eaca86-aad8-492c-9d4d-0dfdc4899889",
+          "settings": {
+            "show_chart_name": false
+          }
         }
       },
       "block_order": [
@@ -89,7 +95,8 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "size_charts_jotly_jotly_size_chart_block_aJr9nh"
       ],
       "settings": {
         "full_width": true,
